@@ -1,7 +1,3 @@
-I wrote comments the best I could throughout my code and I followed the assignment as closely as possible.
-I've studied this for countless hours and it's helped me gain a great understanding of threads and sockets.
-After submitting to canvas, I redownloaded it and ran it again to hopefully ensure there won't be troubles while grading.
-Thank you and have a great day!
 
 Here's a sample run of 14 messaging nodes with 5 connections each:
 
